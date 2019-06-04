@@ -22,7 +22,7 @@
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
-				<string>PEVL7W78Y7.com.bonobodigital.apps.arrive</string>
+				<string>PEVL7W78Y7.com.bonobodigital.arrive</string>
 				<key>aps-environment</key>
 				<string>development</string>
 				<key>com.apple.developer.team-identifier</key>
