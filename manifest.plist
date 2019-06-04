@@ -11,31 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://yaotzin68.github.io/demo/Pringles.ipa</string>
+					<string>https://arrive.services/app/Arrive.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://yaotzin68.github.io/demo/57.png</string>
+					<string>https://arrive.services/app/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://yaotzin68.github.io/demo/512.png</string>
+					<string>https://arrive.services/app/512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bonobobodigital.pringles</string>
+				<string>com.bonobodigital.apps.arrive</string>
 				<key>bundle-version</key>
-				<string>0.0.14</string>
+				<string>0.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Pringles</string>
+				<string>Arrive</string>
 			</dict>
 		</dict>
 	</array>
