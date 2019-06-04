@@ -22,14 +22,21 @@
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
-				<string>PEVL7W78Y7.com.bonobodigital.arrive</string>
-				<key>aps-environment</key>
-				<string>development</string>
+				<string>PEVL7W78Y7.com.bonobodigital.apps.arrive</string>
 				<key>com.apple.developer.team-identifier</key>
 				<string>PEVL7W78Y7</string>
+				<key>get-task-allow</key>
+				<false/>
 			</dict>
 			<key>name</key>
 			<string>Arrive.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>a441be2d-cfde-4cb4-8362-94d7d7ea3f6f</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: com.bonobodigital.apps.arrive</string>
+			</dict>
 			<key>team</key>
 			<dict>
 				<key>id</key>

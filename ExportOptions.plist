@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://yaotzin68.github.io/demo-bonobo/Arrive.ipa</string>
+		<string>https://arrive.services/app/Arrive.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://yaotzin68.github.io/demo-bonobo/57.png</string>
+		<string>https://arrive.services/app/57.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://yaotzin68.github.io/demo-bonobo/512.png</string>
+		<string>https://arrive.services/app/512.png</string>
 	</dict>
 	<key>method</key>
 	<string>enterprise</string>
