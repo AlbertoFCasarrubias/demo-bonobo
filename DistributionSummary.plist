@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>Pringles.ipa</key>
+	<key>Arrive.ipa</key>
 	<array>
 		<dict>
 			<key>architectures</key>
@@ -13,14 +13,23 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string></string>
+				<string>28022BACA6A3F11B2EC4CCA5935C67BBFFFD1714</string>
 				<key>dateExpires</key>
-				<string></string>
+				<string>12/6/21</string>
 				<key>type</key>
-				<string>Unknown</string>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>PEVL7W78Y7.com.bonobodigital.apps.arrive</string>
+				<key>aps-environment</key>
+				<string>development</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>PEVL7W78Y7</string>
 			</dict>
 			<key>name</key>
-			<string>Pringles.app</string>
+			<string>Arrive.app</string>
 			<key>team</key>
 			<dict>
 				<key>id</key>

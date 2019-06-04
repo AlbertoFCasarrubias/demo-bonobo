@@ -6,15 +6,6 @@
 	<false/>
 	<key>destination</key>
 	<string>export</string>
-	<key>manifest</key>
-	<dict>
-		<key>appURL</key>
-		<string>https://yaotzin68.github.io/demo/Pringles.ipa</string>
-		<key>displayImageURL</key>
-		<string>https://yaotzin68.github.io/demo/57.png</string>
-		<key>fullSizeImageURL</key>
-		<string>https://yaotzin68.github.io/demo/512.png</string>
-	</dict>
 	<key>method</key>
 	<string>enterprise</string>
 	<key>signingStyle</key>
